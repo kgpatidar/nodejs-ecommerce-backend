@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://kg:kg@cluster0-iuyuk.mongodb.net/kgstore?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "appEmailId": "email-id",
+  "appEmailPassword": "*******"
+}
